@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi, I'm Timotej Ružička
 
-<!--
-**TimotejR2/TimotejR2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+High school student from Slovakia passionate about computer science and technology. Recently completed CS50.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages:** Python, C
+- **Web Development:** HTML, CSS, JavaScript, Flask
+- **Database:** SQLite, PostgreSQL  # Corrected spelling of PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+1. **CS50 Final Project - Energy Calculator**
+2. **Parish Website**
+    - Flask web app with a system for adding data and storing it in a Vercel PostgreSQL database
+
+## Additional Skills & Learning
+- Taking CS50’s Introduction to Cybersecurity
+- Planning to learn more about C
+
+## Contact
+- Email: timotej.ruzicka@icloud.com
