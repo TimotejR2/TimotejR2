@@ -14,7 +14,7 @@ High school student from Slovakia passionate about computer science and technolo
     - Flask web app with a system for adding data and storing it in a Vercel PostgreSQL database
 
 ## Additional Skills & Learning
-- Taking CS50’s Introduction to Cybersecurity
+- CS50’s Introduction to Artificial Intelligence with Python
 - Planning to learn more about C
 
 ## Contact
