@@ -1,10 +1,10 @@
 # Hi, I'm Timotej Ružička
 
 ## About Me
-High school student from Slovakia passionate about computer science and technology. Recently completed CS50.
+High school student from Slovakia passionate about computer science and technology.
 
 ## Skills
-- **Languages:** Python, C
+- **Languages:** Python, C, Java
 - **Web Development:** HTML, CSS, JavaScript, Flask
 - **Database:** SQLite, PostgreSQL
 
@@ -20,9 +20,7 @@ High school student from Slovakia passionate about computer science and technolo
    - interactiv game based on scaning QR codes
    - still in development
 
-## Additional Skills & Learning
+## Additional Skills
 - CS50’s Introduction to Artificial Intelligence with Python
-- Planning to learn more about C
-
-## Contact
-- Email: timotej.ruzicka@icloud.com
+- Basic of hardware development
+- 3d printing
