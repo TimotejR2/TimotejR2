@@ -4,8 +4,8 @@
 High school student from Slovakia passionate about computer science and technology.
 
 ## Skills
-- **Languages:** Python, C, Java
-- **Web Development:** HTML, CSS, JavaScript, Flask
+- **Languages:** Python, C++, C, Java
+- **Web Development:** WordPress,HTML, CSS, JavaScript, Flask
 - **Database:** SQLite, PostgreSQL
 
 ## Projects
